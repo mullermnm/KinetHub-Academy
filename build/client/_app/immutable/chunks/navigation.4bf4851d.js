@@ -1,0 +1,2 @@
+import{c as f}from"./singletons.333ce4a3.js";(function(){try{var e=typeof window<"u"?window:typeof global<"u"?global:typeof self<"u"?self:{},t=new Error().stack;t&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[t]="747853f6-ee1b-4fa7-adf5-0259ef5b504e",e._sentryDebugIdIdentifier="sentry-dbid-747853f6-ee1b-4fa7-adf5-0259ef5b504e")}catch{}})();const o=f("goto");export{o as g};
+//# sourceMappingURL=navigation.4bf4851d.js.map

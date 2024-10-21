@@ -1,0 +1,5 @@
+ WARN  Unsupported engine: wanted: {"node":"18.x"} (current: {"node":"v21.7.1","pnpm":"9.12.1"})
+
+> dashboard@0.0.1 prepare D:\KinetsHub\classroomio\apps\dashboard
+> svelte-kit sync
+

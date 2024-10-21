@@ -1,0 +1,2 @@
+import{w as t}from"./index.45ef5fca.js";import"./index.a2391391.js";(function(){try{var e=typeof window<"u"?window:typeof global<"u"?global:typeof self<"u"?self:{},d=new Error().stack;d&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[d]="d0d0b94a-2594-425b-846d-63c4105efab1",e._sentryDebugIdIdentifier="sentry-dbid-d0d0b94a-2594-425b-846d-63c4105efab1")}catch{}})();const n=t({isDark:!1,isOrgSite:!1,orgSiteName:"",isStudent:void 0});export{n as g};
+//# sourceMappingURL=app.bd3189d3.js.map

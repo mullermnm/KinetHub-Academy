@@ -1,0 +1,2 @@
+import{w as a}from"./index.45ef5fca.js";import"./index.a2391391.js";(function(){try{var e=typeof window<"u"?window:typeof global<"u"?global:typeof self<"u"?self:{},d=new Error().stack;d&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[d]="d850ab7a-3c9a-4870-a2d2-9841543f83fe",e._sentryDebugIdIdentifier="sentry-dbid-d850ab7a-3c9a-4870-a2d2-9841543f83fe")}catch{}})();const o=a({open:!1,dropdown:!1,selectedApp:void 0}),f={APPS:{QANDA:"QANDA",NOTES:"NOTES",COMMENTS:"COMMENTS",POLL:"POLL"}};export{f as A,o as a};
+//# sourceMappingURL=constants.35eea698.js.map

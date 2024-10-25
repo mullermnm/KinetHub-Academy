@@ -1,2 +1,0 @@
-import{P as c,a as r}from"../chunks/16.fcc96f9e.js";import"../chunks/index.a2391391.js";(function(){try{var e=typeof window<"u"?window:typeof global<"u"?global:typeof self<"u"?self:{},d=new Error().stack;d&&(e._sentryDebugIds=e._sentryDebugIds||{},e._sentryDebugIds[d]="bca624cc-4ddd-49bc-a131-46a2c30bebbf",e._sentryDebugIdIdentifier="sentry-dbid-bca624cc-4ddd-49bc-a131-46a2c30bebbf")}catch{}})();export{c as component,r as universal};
-//# sourceMappingURL=16.b206b279.js.map

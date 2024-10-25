@@ -1,1 +1,0 @@
-{"version":3,"file":"useMobile.7962b2bd.js","sources":["../../../../../../src/lib/utils/store/useMobile.js"],"sourcesContent":["import { writable } from 'svelte/store';\n\nexport const isMobile = writable(false);\n"],"names":["isMobile","writable"],"mappings":"2XAEA,MAAAA,EAAAC,EAAA,EAAA"}

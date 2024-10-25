@@ -12,7 +12,7 @@
     "format": "prettier . --write .",
     "export": "vite build --entry \"/ /404 login signup forgot onboarding courses org lms course\"",
     "postexport": "mv __sapper__/export/404/index.html __sapper__/export/404.html",
-    "start": "node server/index.js",
+    "start": "node start.js",
     "prepare": "svelte-kit sync",
     "test": "jest",
     "test:watch": "pnpm run test --watch",
